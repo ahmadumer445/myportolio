@@ -165,7 +165,7 @@ export default function Qualification() {
                   </span>
                   <div className="qualification__calender">
                     <i className="uil uil-calender-alt"></i>
-                    2024 - 2025
+                    2024
                   </div>
                 </div>
               </div>
