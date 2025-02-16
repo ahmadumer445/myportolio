@@ -100,11 +100,11 @@ export default function Qualification() {
                 <div>
                   <h3 className="qualification__title">Backend Developer</h3>
                   <span className="qualification__subtitle">
-                    kk it solutions
+                    Nizami Soft Tech
                   </span>
                   <div className="qualification__calender">
                     <i className="uil uil-calender-alt"></i>
-                    2023 - 2024
+                    2024
                   </div>
                 </div>
               </div>
@@ -119,13 +119,13 @@ export default function Qualification() {
             >
               <div className="qualification__data">
                 <div>
-                  <h3 className="qualification__title">BS IT </h3>
+                  <h3 className="qualification__title">ICS </h3>
                   <span className="qualification__subtitle">
-                    Okara Uinversity
+                    Wilayat Hussain Islamiya College
                   </span>
                   <div className="qualification__calender">
                     <i className="uil uil-calender-alt"></i>
-                    2022 - Present
+                    2024-2026
                   </div>
                 </div>
                 <div>
@@ -143,11 +143,11 @@ export default function Qualification() {
                 <div>
                   <h3 className="qualification__title">Frontend Developer</h3>
                   <span className="qualification__subtitle">
-                    Okara Uinversity
+                    Kk it solutions
                   </span>
                   <div className="qualification__calender">
                     <i className="uil uil-calender-alt"></i>
-                    2022 - Present
+                    2024 - 2025
                   </div>
                 </div>
               </div>
@@ -159,13 +159,13 @@ export default function Qualification() {
                   <span className="qualification__line"></span>
                 </div>
                 <div>
-                  <h3 className="qualification__title">Frontend Developer</h3>
+                  <h3 className="qualification__title">Backend Developer</h3>
                   <span className="qualification__subtitle">
-                    Okara Uinversity
+                    Nizami Soft Tech
                   </span>
                   <div className="qualification__calender">
                     <i className="uil uil-calender-alt"></i>
-                    2022 - Present
+                    2024
                   </div>
                 </div>
               </div>
